@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_1251284_gest_o_0_pedidos" section_id="8785d2fb9332b11037c373718bba105f" sys_domain="global" table="x_1251284_gest_o_0_pedidos" version="3" view="pedidos">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:51:22</sys_created_on>
+            <sys_id>14385abf9332b11037c373718bba1054</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1251284_gest_o_0_pedidos" display_value="x_1251284_gest_o_0_pedidos" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">8785d2fb9332b11037c373718bba105f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:51:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>produto</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:51:22</sys_created_on>
+            <sys_id>18385abf9332b11037c373718bba1054</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1251284_gest_o_0_pedidos" display_value="x_1251284_gest_o_0_pedidos" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">8785d2fb9332b11037c373718bba105f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:51:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:51:22</sys_created_on>
+            <sys_id>1c385abf9332b11037c373718bba1054</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1251284_gest_o_0_pedidos" display_value="x_1251284_gest_o_0_pedidos" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">8785d2fb9332b11037c373718bba105f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:51:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:51:22</sys_created_on>
+            <sys_id>10385abf9332b11037c373718bba1055</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1251284_gest_o_0_pedidos" display_value="x_1251284_gest_o_0_pedidos" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">8785d2fb9332b11037c373718bba105f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:51:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:51:22</sys_created_on>
+            <sys_id>14385abf9332b11037c373718bba1055</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1251284_gest_o_0_pedidos" display_value="x_1251284_gest_o_0_pedidos" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">8785d2fb9332b11037c373718bba105f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:51:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:51:22</sys_created_on>
+            <sys_id>18385abf9332b11037c373718bba1055</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1251284_gest_o_0_pedidos" display_value="x_1251284_gest_o_0_pedidos" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">8785d2fb9332b11037c373718bba105f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:51:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrega</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:51:22</sys_created_on>
+            <sys_id>1c385abf9332b11037c373718bba1055</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1251284_gest_o_0_pedidos" display_value="x_1251284_gest_o_0_pedidos" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">8785d2fb9332b11037c373718bba105f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:51:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_1251284_gest_o_0_pedidos</caption>
+            <header>false</header>
+            <name>x_1251284_gest_o_0_pedidos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:39:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8785d2fb9332b11037c373718bba105f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1251284_gest_o_0_pedidos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+            <sys_update_name>sys_ui_section_8785d2fb9332b11037c373718bba105f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:39:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="pedidos" name="pedidos">28a31a3b9332b11037c373718bba1061</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

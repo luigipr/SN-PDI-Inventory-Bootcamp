@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 1" section_id="6bb6da3f9332b11037c373718bba10c7" sys_domain="global" table="x_1251284_gest_o_0_pedidos" version="3" view="pedidos">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:45:02</sys_created_on>
+            <sys_id>e3b61e3f9332b11037c373718bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">6bb6da3f9332b11037c373718bba10c7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:45:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:45:02</sys_created_on>
+            <sys_id>67b61e3f9332b11037c373718bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">6bb6da3f9332b11037c373718bba10c7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:45:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:45:02</sys_created_on>
+            <sys_id>e7b61e3f9332b11037c373718bba1050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1251284_gest_o_0_pedidos" sys_domain="global" view="28a31a3b9332b11037c373718bba1061">6bb6da3f9332b11037c373718bba10c7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:45:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1251284_gest_o_0_pedidos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 03:45:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6bb6da3f9332b11037c373718bba10c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1251284_gest_o_0_pedidos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+            <sys_update_name>sys_ui_section_6bb6da3f9332b11037c373718bba10c7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 03:45:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="pedidos" name="pedidos">28a31a3b9332b11037c373718bba1061</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
