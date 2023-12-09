@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 21:31:14</sys_created_on>
+        <sys_id>2f541714930b351037c373718bba10e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1251284_gest_o_0_itens.x_1251284_gest_o_0.analistas_role</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+        <sys_security_acl display_value="x_1251284_gest_o_0_itens">e3541714930b351037c373718bba10e3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2f541714930b351037c373718bba10e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 21:31:14</sys_updated_on>
+        <sys_user_role display_value="x_1251284_gest_o_0.analistas_role" name="x_1251284_gest_o_0.analistas_role">6f541714930b351037c373718bba103d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
