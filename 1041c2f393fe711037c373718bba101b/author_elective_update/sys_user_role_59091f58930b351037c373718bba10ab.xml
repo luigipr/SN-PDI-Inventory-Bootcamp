@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1251284_gest_o_0.analistas-assigned</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>analistas-assigned</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 21:59:41</sys_created_on>
+        <sys_id>59091f58930b351037c373718bba10ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1251284_gest_o_0.analistas-assigned</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+        <sys_update_name>sys_user_role_59091f58930b351037c373718bba10ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 21:59:41</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</application>
+        <file_path/>
+        <instance_id>41a629691bbaf5541024eb9b2d4bcbc9</instance_id>
+        <instance_name>dev227779</instance_name>
+        <name>sys_user_role_59091f58930b351037c373718bba10ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1251284_gest_o_0.analistas-assigned</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>analistas-assigned</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-07 21:59:41</sys_created_on><sys_id>59091f58930b351037c373718bba10ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1251284_gest_o_0.analistas-assigned</sys_name><sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope><sys_update_name>sys_user_role_59091f58930b351037c373718bba10ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-07 21:59:41</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1704153088</payload_hash>
+        <record_name>x_1251284_gest_o_0.analistas-assigned</record_name>
+        <reverted_from/>
+        <source>43ea5ddc93cff11037c373718bba1005</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 21:59:41</sys_created_on>
+        <sys_id>d0ea1fd8930b351037c373718bba10cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c464b2f7a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 21:59:41</sys_updated_on>
+        <type>Role</type>
+        <update_guid>18ea1fd89f0b3510a48e09e3689c59ca</update_guid>
+        <update_guid_history>18ea1fd89f0b3510a48e09e3689c59ca:-1704153088</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1251284_gest_o_0.analistas-assigned">4c322fd0934b351037c373718bba103c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 22:31:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>185e7068885c45ce83e8cff1c68078a1</sys_id>
+        <sys_metadata>59091f58930b351037c373718bba10ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1251284_gest_o_0.analistas-assigned</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+        <sys_scope_delete display_value="">1ddf01f33c8e4ca889986ee9a79d0f10</sys_scope_delete>
+        <sys_update_name>sys_user_role_59091f58930b351037c373718bba10ab</sys_update_name>
+        <sys_update_version display_value="sys_user_role_59091f58930b351037c373718bba10ab">d0ea1fd8930b351037c373718bba10cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 22:31:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
