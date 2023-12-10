@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Pedido">93428291934b391037c373718bba10cd</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 18:06:53</sys_created_on>
+        <sys_id>a7520691934b391037c373718bba103f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedido.catalog_pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_pedido">23524291934b391037c373718bba10d0</sys_portal_page>
+        <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_a7520691934b391037c373718bba103f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:06:53</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</application>
+        <file_path/>
+        <instance_id>41a629691bbaf5541024eb9b2d4bcbc9</instance_id>
+        <instance_name>dev227779</instance_name>
+        <name>sc_catalog_view_mtom_a7520691934b391037c373718bba103f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Pedido">93428291934b391037c373718bba10cd</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 18:06:53</sys_created_on><sys_id>a7520691934b391037c373718bba103f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pedido.catalog_pedido</sys_name><sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package><sys_policy/><sys_portal_page display_value="catalog_pedido">23524291934b391037c373718bba10d0</sys_portal_page><sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope><sys_update_name>sc_catalog_view_mtom_a7520691934b391037c373718bba103f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 18:06:53</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>386707201</payload_hash>
+        <record_name>Pedido.catalog_pedido</record_name>
+        <reverted_from/>
+        <source>43ea5ddc93cff11037c373718bba1005</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 18:06:53</sys_created_on>
+        <sys_id>63520691934b391037c373718bba1042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c54e9213a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:06:53</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>a75206910b4b391013908301c01e0341</update_guid>
+        <update_guid_history>a75206910b4b391013908301c01e0341:386707201</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pedido.catalog_pedido">153a0e1d934b391037c373718bba1069</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 18:41:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>64d8da8ea9174f4ab4b6d5c62343dee4</sys_id>
+        <sys_metadata>a7520691934b391037c373718bba103f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedido.catalog_pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+        <sys_scope_delete display_value="">1ddf01f33c8e4ca889986ee9a79d0f10</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_a7520691934b391037c373718bba103f</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_a7520691934b391037c373718bba103f">63520691934b391037c373718bba1042</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:41:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
