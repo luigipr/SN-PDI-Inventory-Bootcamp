@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Pedidos">2d1346d1934b391037c373718bba1064</sc_cat_item>
+        <sc_category display_value="Pedidos Inventario">5f820a91934b391037c373718bba10c9</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 18:21:58</sys_created_on>
+        <sys_id>d4d58695934b391037c373718bba10ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedidos Inventario.Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+        <sys_update_name>sc_cat_item_category_d4d58695934b391037c373718bba10ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:21:58</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</application>
+        <file_path/>
+        <instance_id>41a629691bbaf5541024eb9b2d4bcbc9</instance_id>
+        <instance_name>dev227779</instance_name>
+        <name>sc_cat_item_category_d4d58695934b391037c373718bba10ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Pedidos">2d1346d1934b391037c373718bba1064</sc_cat_item><sc_category display_value="Pedidos Inventario">5f820a91934b391037c373718bba10c9</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 18:21:58</sys_created_on><sys_id>d4d58695934b391037c373718bba10ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pedidos Inventario.Pedidos</sys_name><sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope><sys_update_name>sc_cat_item_category_d4d58695934b391037c373718bba10ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 18:21:58</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1673967508</payload_hash>
+        <record_name>Pedidos Inventario.Pedidos</record_name>
+        <reverted_from/>
+        <source>43ea5ddc93cff11037c373718bba1005</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 18:21:58</sys_created_on>
+        <sys_id>dcd58695934b391037c373718bba10b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c54f6ef5a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:21:58</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>14d58695ca4b3910f6f0b510e18c8fb1</update_guid>
+        <update_guid_history>14d58695ca4b3910f6f0b510e18c8fb1:1673967508</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pedidos Inventario.Pedidos">416a025d934b391037c373718bba1000</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 18:41:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>8265fce5adda4d3b9642c1d3ad075851</sys_id>
+        <sys_metadata>d4d58695934b391037c373718bba10ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedidos Inventario.Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251284_gest_o_0">1041c2f393fe711037c373718bba101b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1041c2f393fe711037c373718bba101b</sys_scope>
+        <sys_scope_delete display_value="">1ddf01f33c8e4ca889986ee9a79d0f10</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_d4d58695934b391037c373718bba10ae</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_d4d58695934b391037c373718bba10ae">dcd58695934b391037c373718bba10b1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:41:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
